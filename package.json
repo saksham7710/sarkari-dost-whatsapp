@@ -1,0 +1,17 @@
+{
+  "name": "sarkari-dost-whatsapp",
+  "version": "1.0.0",
+  "description": "WhatsApp bot for Sarkari Dost - Government Scheme Eligibility Checker",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "dependencies": {
+    "hono": "^4.4.0",
+    "@hono/node-server": "^1.11.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
