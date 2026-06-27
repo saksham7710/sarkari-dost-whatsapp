@@ -1,20 +1,15 @@
 import { Hono } from 'hono';
 import { serve } from '@hono/node-server';
+import { readFileSync } from 'fs';
+import { join, dirname } from 'path';
+import { fileURLToPath } from 'url';
 
-// ═══════════════════════════════════════════════════════════════
-// SARKARI DOST - WHATSAPP BOT (STANDALONE DEPLOYMENT)
-// ═══════════════════════════════════════════════════════════════
-// This is a COMPLETE standalone server. Just run:
-//   npm install && npm start
-// No need to touch your existing project.
-// ═══════════════════════════════════════════════════════════════
-
+const __dirname = dirname(fileURLToPath(import.meta.url));
 const PORT = process.env.PORT || 3000;
 const WHATSAPP_API_VERSION = 'v18.0';
 const WHATSAPP_API_BASE = `https://graph.facebook.com/${WHATSAPP_API_VERSION}`;
 const SESSION_TIMEOUT_MS = 30 * 60 * 1000;
 
-// In-memory session store (auto-clears expired sessions)
 const sessions = new Map();
 
 // ═══════════════════════════════════════════════════════════════
@@ -24,80 +19,42 @@ const sessions = new Map();
 const FLOW = [
   {
     key: 'age',
-    question: `👋 *Namaste!* I am *Sarkari Dost*, your government scheme assistant.
-
-I will ask you 6 simple questions to find schemes you qualify for.
-
-*Question 1/6:* What is your age?
-(Reply with a number, e.g., 35)`,
+    question: `👋 *Namaste!* I am *Sarkari Dost*, your government scheme assistant.\n\nI will ask you 6 simple questions to find schemes you qualify for.\n\n*Question 1/6:* What is your age?\n(Reply with a number, e.g., 35)`,
     validate: (v) => { const n = parseInt(v); return !isNaN(n) && n >= 18 && n <= 120; },
     transform: (v) => parseInt(v),
     error: '❌ Please enter a valid age between 18 and 120.',
   },
   {
     key: 'occupation',
-    question: `*Question 2/6:* What is your occupation?
-
-1️⃣ Farmer
-2️⃣ Student
-3️⃣ Salaried (Govt/Private job)
-4️⃣ Self-employed
-5️⃣ Unemployed
-6️⃣ Homemaker
-
-Reply with the number (1-6):`,
+    question: `*Question 2/6:* What is your occupation?\n\n1️⃣ Farmer\n2️⃣ Student\n3️⃣ Salaried (Govt/Private job)\n4️⃣ Self-employed\n5️⃣ Unemployed\n6️⃣ Homemaker\n\nReply with the number (1-6):`,
     validate: (v) => ['1','2','3','4','5','6'].includes(v.trim()),
     transform: (v) => ['farmer','student','salaried','self-employed','unemployed','homemaker'][parseInt(v)-1],
     error: '❌ Please reply with a number from 1 to 6.',
   },
   {
     key: 'income',
-    question: `*Question 3/6:* What is your annual family income?
-
-1️⃣ Below ₹1 lakh
-2️⃣ ₹1 - ₹3 lakh
-3️⃣ ₹3 - ₹5 lakh
-4️⃣ ₹5 - ₹10 lakh
-5️⃣ Above ₹10 lakh
-
-Reply with the number (1-5):`,
+    question: `*Question 3/6:* What is your annual family income?\n\n1️⃣ Below ₹1 lakh\n2️⃣ ₹1 - ₹3 lakh\n3️⃣ ₹3 - ₹5 lakh\n4️⃣ ₹5 - ₹10 lakh\n5️⃣ Above ₹10 lakh\n\nReply with the number (1-5):`,
     validate: (v) => ['1','2','3','4','5'].includes(v.trim()),
     transform: (v) => ['below-1l','1l-3l','3l-5l','5l-10l','above-10l'][parseInt(v)-1],
     error: '❌ Please reply with a number from 1 to 5.',
   },
   {
     key: 'state',
-    question: `*Question 4/6:* Which state are you from?
-
-Type your state name (e.g., Uttar Pradesh, Maharashtra, Madhya Pradesh)`,
+    question: `*Question 4/6:* Which state are you from?\n\nType your state name (e.g., Uttar Pradesh, Maharashtra, Madhya Pradesh)`,
     validate: (v) => v.trim().length >= 2,
     transform: (v) => v.trim().toLowerCase(),
     error: '❌ Please enter a valid state name.',
   },
   {
     key: 'gender',
-    question: `*Question 5/6:* What is your gender?
-
-1️⃣ Male
-2️⃣ Female
-3️⃣ Other
-
-Reply with the number (1-3):`,
+    question: `*Question 5/6:* What is your gender?\n\n1️⃣ Male\n2️⃣ Female\n3️⃣ Other\n\nReply with the number (1-3):`,
     validate: (v) => ['1','2','3'].includes(v.trim()),
     transform: (v) => ['male','female','other'][parseInt(v)-1],
     error: '❌ Please reply with 1, 2, or 3.',
   },
   {
     key: 'caste',
-    question: `*Question 6/6:* What is your social category?
-
-1️⃣ General
-2️⃣ OBC
-3️⃣ SC (Scheduled Caste)
-4️⃣ ST (Scheduled Tribe)
-5️⃣ EWS (Economically Weaker Section)
-
-Reply with the number (1-5):`,
+    question: `*Question 6/6:* What is your social category?\n\n1️⃣ General\n2️⃣ OBC\n3️⃣ SC (Scheduled Caste)\n4️⃣ ST (Scheduled Tribe)\n5️⃣ EWS (Economically Weaker Section)\n\nReply with the number (1-5):`,
     validate: (v) => ['1','2','3','4','5'].includes(v.trim()),
     transform: (v) => ['general','obc','sc','st','ews'][parseInt(v)-1],
     error: '❌ Please reply with a number from 1 to 5.',
@@ -143,6 +100,7 @@ const SCHEMES = [
 function calculateMatchScore(scheme, answers) {
   let score = 0, totalChecks = 0;
   const { age, occupation, income, gender, caste } = answers;
+
   if (scheme.eligibility.minAge || scheme.eligibility.maxAge) {
     totalChecks++;
     if (age >= (scheme.eligibility.minAge || 0) && age <= (scheme.eligibility.maxAge || 150)) score++;
@@ -155,8 +113,8 @@ function calculateMatchScore(scheme, answers) {
   }
   if (scheme.eligibility.genders) { totalChecks++; if (scheme.eligibility.genders.includes(gender)) score++; }
   if (scheme.eligibility.castes) { totalChecks++; if (scheme.eligibility.castes.includes(caste)) score++; }
-  if (totalChecks === 0) return 50;
-  return Math.round((score / totalChecks) * 100);
+
+  return totalChecks === 0 ? 50 : Math.round((score / totalChecks) * 100);
 }
 
 function getMatchedSchemes(answers) {
@@ -169,16 +127,19 @@ function formatResults(schemes, answers) {
   const occLabels = { farmer: 'Farmer', student: 'Student', salaried: 'Salaried', 'self-employed': 'Self-employed', unemployed: 'Unemployed', homemaker: 'Homemaker' };
   const incLabels = { 'below-1l': 'Below ₹1 lakh', '1l-3l': '₹1-3 lakh', '3l-5l': '₹3-5 lakh', '5l-10l': '₹5-10 lakh', 'above-10l': 'Above ₹10 lakh' };
   const cstLabels = { general: 'General', obc: 'OBC', sc: 'SC', st: 'ST', ews: 'EWS' };
+
   let msg = `🎯 *Your Eligibility Results*\n━━━━━━━━━━━━━━━━━━━\n\n📋 *Your Profile:*\n`;
   msg += `• Age: ${age} years\n• Occupation: ${occLabels[occupation] || occupation}\n`;
   msg += `• Income: ${incLabels[income] || income}\n• State: ${state.charAt(0).toUpperCase() + state.slice(1)}\n`;
   msg += `• Gender: ${gender.charAt(0).toUpperCase() + gender.slice(1)}\n• Category: ${cstLabels[caste] || caste}\n\n`;
   msg += `━━━━━━━━━━━━━━━━━━━\n✅ *You match ${schemes.length} scheme${schemes.length !== 1 ? 's' : ''}!*\n\n`;
+
   schemes.forEach((s, i) => {
     const emoji = s.matchScore >= 80 ? '🟢' : s.matchScore >= 50 ? '🟡' : '🟠';
     msg += `${i + 1}. *${s.name}* ${emoji} ${s.matchScore}% match\n`;
     msg += `   💰 ${s.benefit}\n   📝 Docs: ${s.documents.join(', ')}\n   🔗 ${s.applyUrl}\n\n`;
   });
+
   msg += `━━━━━━━━━━━━━━━━━━━\nType *RESTART* to check again`;
   return msg;
 }
@@ -202,7 +163,7 @@ async function sendWhatsAppMessage(to, body) {
 }
 
 // ═══════════════════════════════════════════════════════════════
-// SESSION MANAGEMENT (In-Memory with Auto-Cleanup)
+// SESSION MANAGEMENT
 // ═══════════════════════════════════════════════════════════════
 
 function getSession(phone) {
@@ -219,13 +180,11 @@ function saveSession(phone, step, answers) {
   sessions.set(phone, { step, answers, lastActive: Date.now() });
 }
 
-// Clean up expired sessions every 10 minutes
 setInterval(() => {
   const now = Date.now();
   for (const [phone, s] of sessions.entries()) {
     if (now - s.lastActive > SESSION_TIMEOUT_MS) sessions.delete(phone);
   }
-  console.log(`Session cleanup: ${sessions.size} active sessions`);
 }, 10 * 60 * 1000);
 
 // ═══════════════════════════════════════════════════════════════
@@ -273,8 +232,17 @@ async function processMessage(phone, text) {
 
 const app = new Hono();
 
+// SERVE FRONTEND HTML
+app.get('/', (c) => {
+  try {
+    const html = readFileSync(join(__dirname, '../public/index.html'), 'utf-8');
+    return c.html(html);
+  } catch (e) {
+    return c.text('Frontend not found. Please make sure public/index.html exists.', 500);
+  }
+});
+
 // Health check
-app.get('/', (c) => c.json({ status: 'ok', service: 'Sarkari Dost WhatsApp Bot', time: new Date().toISOString(), uptime: process.uptime() }));
 app.get('/health', (c) => c.json({ status: 'ok', activeSessions: sessions.size }));
 
 // Meta webhook verification
@@ -286,6 +254,7 @@ app.get('/api/whatsapp/meta-webhook', (c) => {
     console.log('✅ Webhook verified successfully');
     return c.text(challenge);
   }
+  console.error('Webhook verification failed');
   return c.text('Forbidden', 403);
 });
 
@@ -293,6 +262,7 @@ app.get('/api/whatsapp/meta-webhook', (c) => {
 app.post('/api/whatsapp/meta-webhook', async (c) => {
   try {
     const data = await c.req.json();
+    console.log('Incoming webhook:', JSON.stringify(data, null, 2));
     const message = data.entry?.[0]?.changes?.[0]?.value?.messages?.[0];
     if (!message) return c.json({ success: true });
 
@@ -304,8 +274,8 @@ app.post('/api/whatsapp/meta-webhook', async (c) => {
     await sendWhatsAppMessage(from, reply);
 
     return c.json({ success: true });
-  } catch (e) {
-    console.error('❌ Webhook error:', e);
+  } catch (error) {
+    console.error('❌ Webhook error:', error);
     return c.json({ success: false, error: 'Internal error' }, 500);
   }
 });
@@ -342,5 +312,6 @@ console.log('🚀 Sarkari Dost WhatsApp Bot starting...');
 console.log(`📡 Port: ${PORT}`);
 console.log(`🧠 Active sessions: ${sessions.size}`);
 console.log(`📋 Schemes loaded: ${SCHEMES.length}`);
+console.log(`🌐 Website: http://localhost:${PORT}`);
 
 serve({ fetch: app.fetch, port: Number(PORT) });
