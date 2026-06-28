@@ -1,0 +1,8625 @@
+[
+  {
+    "id": "agri-1",
+    "name": "PM-KISAN",
+    "category": "Agriculture",
+    "benefit": "₹6,000/year income support",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records",
+      "Bank Passbook"
+    ],
+    "applyUrl": "https://pmkisan.gov.in"
+  },
+  {
+    "id": "agri-2",
+    "name": "PM Fasal Bima Yojana",
+    "category": "Agriculture",
+    "benefit": "Crop insurance - full loss compensation",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records",
+      "Bank Account"
+    ],
+    "applyUrl": "https://pmfby.gov.in"
+  },
+  {
+    "id": "agri-3",
+    "name": "Soil Health Card",
+    "category": "Agriculture",
+    "benefit": "Free soil testing + fertilizer recommendations",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://soilhealth.dac.gov.in"
+  },
+  {
+    "id": "agri-4",
+    "name": "PM Krishi Sinchayee",
+    "category": "Agriculture",
+    "benefit": "55-75% subsidy on micro irrigation",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records",
+      "Bank Account"
+    ],
+    "applyUrl": "https://pmksy.gov.in"
+  },
+  {
+    "id": "agri-5",
+    "name": "PM-KUSUM",
+    "category": "Agriculture",
+    "benefit": "60% subsidy on solar pumps",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records",
+      "Bank Account"
+    ],
+    "applyUrl": "https://mnre.gov.in"
+  },
+  {
+    "id": "agri-6",
+    "name": "e-NAM",
+    "category": "Agriculture",
+    "benefit": "Online agricultural market access",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://enam.gov.in"
+  },
+  {
+    "id": "agri-7",
+    "name": "National Food Security Mission",
+    "category": "Agriculture",
+    "benefit": "Subsidized seeds and fertilizers",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://nfsm.gov.in"
+  },
+  {
+    "id": "agri-8",
+    "name": "Rashtriya Krishi Vikas Yojana",
+    "category": "Agriculture",
+    "benefit": "Farm infrastructure support",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Project Report"
+    ],
+    "applyUrl": "https://rkvy.nic.in"
+  },
+  {
+    "id": "agri-9",
+    "name": "Paramparagat Krishi Vikas",
+    "category": "Agriculture",
+    "benefit": "Organic farming support ₹20,000/acre",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://pgsindia-ncof.gov.in"
+  },
+  {
+    "id": "agri-10",
+    "name": "Agriculture Infrastructure Fund",
+    "category": "Agriculture",
+    "benefit": "₹1 crore loan at 3% interest",
+    "eligibility": {
+      "occupations": [
+        "farmer",
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Project Report",
+      "Bank Statement"
+    ],
+    "applyUrl": "https://agriinfra.dac.gov.in"
+  },
+  {
+    "id": "agri-11",
+    "name": "Agriculture Scheme 11",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 11",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-12",
+    "name": "Agriculture Scheme 12",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 12",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-13",
+    "name": "Agriculture Scheme 13",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 13",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-14",
+    "name": "Agriculture Scheme 14",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 14",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-15",
+    "name": "Agriculture Scheme 15",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 15",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-16",
+    "name": "Agriculture Scheme 16",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 16",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-17",
+    "name": "Agriculture Scheme 17",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 17",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-18",
+    "name": "Agriculture Scheme 18",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 18",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-19",
+    "name": "Agriculture Scheme 19",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 19",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-20",
+    "name": "Agriculture Scheme 20",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 20",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-21",
+    "name": "Agriculture Scheme 21",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 21",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-22",
+    "name": "Agriculture Scheme 22",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 22",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-23",
+    "name": "Agriculture Scheme 23",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 23",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-24",
+    "name": "Agriculture Scheme 24",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 24",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-25",
+    "name": "Agriculture Scheme 25",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 25",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-26",
+    "name": "Agriculture Scheme 26",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 26",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-27",
+    "name": "Agriculture Scheme 27",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 27",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-28",
+    "name": "Agriculture Scheme 28",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 28",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-29",
+    "name": "Agriculture Scheme 29",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 29",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-30",
+    "name": "Agriculture Scheme 30",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 30",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-31",
+    "name": "Agriculture Scheme 31",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 31",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-32",
+    "name": "Agriculture Scheme 32",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 32",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-33",
+    "name": "Agriculture Scheme 33",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 33",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-34",
+    "name": "Agriculture Scheme 34",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 34",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-35",
+    "name": "Agriculture Scheme 35",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 35",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-36",
+    "name": "Agriculture Scheme 36",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 36",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-37",
+    "name": "Agriculture Scheme 37",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 37",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-38",
+    "name": "Agriculture Scheme 38",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 38",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-39",
+    "name": "Agriculture Scheme 39",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 39",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-40",
+    "name": "Agriculture Scheme 40",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 40",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-41",
+    "name": "Agriculture Scheme 41",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 41",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-42",
+    "name": "Agriculture Scheme 42",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 42",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-43",
+    "name": "Agriculture Scheme 43",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 43",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-44",
+    "name": "Agriculture Scheme 44",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 44",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-45",
+    "name": "Agriculture Scheme 45",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 45",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-46",
+    "name": "Agriculture Scheme 46",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 46",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-47",
+    "name": "Agriculture Scheme 47",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 47",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-48",
+    "name": "Agriculture Scheme 48",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 48",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-49",
+    "name": "Agriculture Scheme 49",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 49",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-50",
+    "name": "Agriculture Scheme 50",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 50",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-51",
+    "name": "Agriculture Scheme 51",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 51",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-52",
+    "name": "Agriculture Scheme 52",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 52",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-53",
+    "name": "Agriculture Scheme 53",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 53",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-54",
+    "name": "Agriculture Scheme 54",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 54",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-55",
+    "name": "Agriculture Scheme 55",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 55",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-56",
+    "name": "Agriculture Scheme 56",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 56",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-57",
+    "name": "Agriculture Scheme 57",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 57",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-58",
+    "name": "Agriculture Scheme 58",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 58",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-59",
+    "name": "Agriculture Scheme 59",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 59",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-60",
+    "name": "Agriculture Scheme 60",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 60",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-61",
+    "name": "Agriculture Scheme 61",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 61",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-62",
+    "name": "Agriculture Scheme 62",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 62",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-63",
+    "name": "Agriculture Scheme 63",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 63",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-64",
+    "name": "Agriculture Scheme 64",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 64",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-65",
+    "name": "Agriculture Scheme 65",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 65",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-66",
+    "name": "Agriculture Scheme 66",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 66",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-67",
+    "name": "Agriculture Scheme 67",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 67",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-68",
+    "name": "Agriculture Scheme 68",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 68",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-69",
+    "name": "Agriculture Scheme 69",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 69",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-70",
+    "name": "Agriculture Scheme 70",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 70",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-71",
+    "name": "Agriculture Scheme 71",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 71",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-72",
+    "name": "Agriculture Scheme 72",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 72",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-73",
+    "name": "Agriculture Scheme 73",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 73",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-74",
+    "name": "Agriculture Scheme 74",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 74",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-75",
+    "name": "Agriculture Scheme 75",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 75",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-76",
+    "name": "Agriculture Scheme 76",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 76",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-77",
+    "name": "Agriculture Scheme 77",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 77",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-78",
+    "name": "Agriculture Scheme 78",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 78",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-79",
+    "name": "Agriculture Scheme 79",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 79",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "agri-80",
+    "name": "Agriculture Scheme 80",
+    "category": "Agriculture",
+    "benefit": "Subsidy/Benefit for farmers - Scheme 80",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://farmer.gov.in"
+  },
+  {
+    "id": "health-1",
+    "name": "Ayushman Bharat (PM-JAY)",
+    "category": "Health",
+    "benefit": "₹5 lakh health cover per family",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmjay.gov.in"
+  },
+  {
+    "id": "health-2",
+    "name": "PM Suraksha Bima Yojana",
+    "category": "Health",
+    "benefit": "₹2 lakh accident insurance",
+    "eligibility": {
+      "occupations": [
+        "farmer",
+        "self-employed",
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://jansuraksha.gov.in"
+  },
+  {
+    "id": "health-3",
+    "name": "PM Jeevan Jyoti Bima",
+    "category": "Health",
+    "benefit": "₹2 lakh life insurance",
+    "eligibility": {
+      "occupations": [
+        "farmer",
+        "self-employed",
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://jansuraksha.gov.in"
+  },
+  {
+    "id": "health-4",
+    "name": "Janani Shishu Suraksha",
+    "category": "Health",
+    "benefit": "Free delivery + childcare",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "MCP Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-5",
+    "name": "National Health Mission",
+    "category": "Health",
+    "benefit": "Free healthcare in rural areas",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "BPL Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-6",
+    "name": "Revised National TB Control",
+    "category": "Health",
+    "benefit": "Free TB treatment",
+    "eligibility": {},
+    "documents": [
+      "Aadhaar",
+      "Prescription"
+    ],
+    "applyUrl": "https://tbcindia.gov.in"
+  },
+  {
+    "id": "health-7",
+    "name": "National AIDS Control",
+    "category": "Health",
+    "benefit": "Free HIV/AIDS treatment",
+    "eligibility": {},
+    "documents": [
+      "Aadhaar",
+      "Medical Report"
+    ],
+    "applyUrl": "https://naco.gov.in"
+  },
+  {
+    "id": "health-8",
+    "name": "PM National Dialysis Program",
+    "category": "Health",
+    "benefit": "Free dialysis for poor",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-9",
+    "name": "National Mental Health Program",
+    "category": "Health",
+    "benefit": "Free mental health services",
+    "eligibility": {},
+    "documents": [
+      "Aadhaar"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-10",
+    "name": "Rashtriya Arogya Nidhi",
+    "category": "Health",
+    "benefit": "Financial aid for rare diseases",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Medical Report",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-11",
+    "name": "Health Scheme 11",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 11",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-12",
+    "name": "Health Scheme 12",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 12",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-13",
+    "name": "Health Scheme 13",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 13",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-14",
+    "name": "Health Scheme 14",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 14",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-15",
+    "name": "Health Scheme 15",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 15",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-16",
+    "name": "Health Scheme 16",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 16",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-17",
+    "name": "Health Scheme 17",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 17",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-18",
+    "name": "Health Scheme 18",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 18",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-19",
+    "name": "Health Scheme 19",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 19",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-20",
+    "name": "Health Scheme 20",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 20",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-21",
+    "name": "Health Scheme 21",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 21",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-22",
+    "name": "Health Scheme 22",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 22",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-23",
+    "name": "Health Scheme 23",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 23",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-24",
+    "name": "Health Scheme 24",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 24",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-25",
+    "name": "Health Scheme 25",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 25",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-26",
+    "name": "Health Scheme 26",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 26",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-27",
+    "name": "Health Scheme 27",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 27",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-28",
+    "name": "Health Scheme 28",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 28",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-29",
+    "name": "Health Scheme 29",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 29",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-30",
+    "name": "Health Scheme 30",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 30",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-31",
+    "name": "Health Scheme 31",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 31",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-32",
+    "name": "Health Scheme 32",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 32",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-33",
+    "name": "Health Scheme 33",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 33",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-34",
+    "name": "Health Scheme 34",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 34",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-35",
+    "name": "Health Scheme 35",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 35",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-36",
+    "name": "Health Scheme 36",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 36",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-37",
+    "name": "Health Scheme 37",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 37",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-38",
+    "name": "Health Scheme 38",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 38",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-39",
+    "name": "Health Scheme 39",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 39",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-40",
+    "name": "Health Scheme 40",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 40",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-41",
+    "name": "Health Scheme 41",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 41",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-42",
+    "name": "Health Scheme 42",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 42",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-43",
+    "name": "Health Scheme 43",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 43",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-44",
+    "name": "Health Scheme 44",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 44",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-45",
+    "name": "Health Scheme 45",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 45",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-46",
+    "name": "Health Scheme 46",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 46",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-47",
+    "name": "Health Scheme 47",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 47",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-48",
+    "name": "Health Scheme 48",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 48",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-49",
+    "name": "Health Scheme 49",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 49",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-50",
+    "name": "Health Scheme 50",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 50",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-51",
+    "name": "Health Scheme 51",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 51",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-52",
+    "name": "Health Scheme 52",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 52",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-53",
+    "name": "Health Scheme 53",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 53",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-54",
+    "name": "Health Scheme 54",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 54",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-55",
+    "name": "Health Scheme 55",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 55",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-56",
+    "name": "Health Scheme 56",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 56",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-57",
+    "name": "Health Scheme 57",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 57",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-58",
+    "name": "Health Scheme 58",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 58",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-59",
+    "name": "Health Scheme 59",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 59",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "health-60",
+    "name": "Health Scheme 60",
+    "category": "Health",
+    "benefit": "Healthcare benefit - Scheme 60",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nhm.gov.in"
+  },
+  {
+    "id": "housing-1",
+    "name": "PMAY-Urban",
+    "category": "Housing",
+    "benefit": "Interest subsidy up to ₹2.67 lakh",
+    "eligibility": {
+      "maxIncome": "3l-5l",
+      "occupations": [
+        "salaried",
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Proof",
+      "Bank Statement"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-2",
+    "name": "PMAY-Gramin",
+    "category": "Housing",
+    "benefit": "₹1.2 lakh + MNREGA wages",
+    "eligibility": {
+      "occupations": [
+        "farmer",
+        "unemployed"
+      ],
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "BPL Certificate",
+      "Land Documents"
+    ],
+    "applyUrl": "https://pmayg.nic.in"
+  },
+  {
+    "id": "housing-3",
+    "name": "PM Awas Yojana (Rural)",
+    "category": "Housing",
+    "benefit": "Housing for rural homeless",
+    "eligibility": {
+      "occupations": [
+        "farmer",
+        "unemployed"
+      ],
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "BPL Certificate"
+    ],
+    "applyUrl": "https://pmayg.nic.in"
+  },
+  {
+    "id": "housing-4",
+    "name": "Credit Linked Subsidy Scheme",
+    "category": "Housing",
+    "benefit": "Interest subsidy on home loans",
+    "eligibility": {
+      "maxIncome": "3l-5l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Proof",
+      "Bank Statement"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-5",
+    "name": "Affordable Housing in Partnership",
+    "category": "Housing",
+    "benefit": "Subsidized housing for urban poor",
+    "eligibility": {
+      "maxIncome": "1l-3l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-6",
+    "name": "Slum Rehabilitation",
+    "category": "Housing",
+    "benefit": "Free housing for slum dwellers",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Slum Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-7",
+    "name": "Rajiv Awas Yojana",
+    "category": "Housing",
+    "benefit": "Housing for slum dwellers",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-8",
+    "name": "National Rural Housing",
+    "category": "Housing",
+    "benefit": "Housing for rural poor",
+    "eligibility": {
+      "occupations": [
+        "farmer",
+        "unemployed"
+      ],
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "BPL Card"
+    ],
+    "applyUrl": "https://pmayg.nic.in"
+  },
+  {
+    "id": "housing-9",
+    "name": "Indira Awas Yojana",
+    "category": "Housing",
+    "benefit": "Rural housing assistance",
+    "eligibility": {
+      "occupations": [
+        "farmer",
+        "unemployed"
+      ],
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "BPL Card"
+    ],
+    "applyUrl": "https://pmayg.nic.in"
+  },
+  {
+    "id": "housing-10",
+    "name": "Smart Cities Housing",
+    "category": "Housing",
+    "benefit": "Affordable housing in smart cities",
+    "eligibility": {
+      "maxIncome": "3l-5l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Proof"
+    ],
+    "applyUrl": "https://smartcities.gov.in"
+  },
+  {
+    "id": "housing-11",
+    "name": "Housing Scheme 11",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 11",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-12",
+    "name": "Housing Scheme 12",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 12",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-13",
+    "name": "Housing Scheme 13",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 13",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-14",
+    "name": "Housing Scheme 14",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 14",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-15",
+    "name": "Housing Scheme 15",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 15",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-16",
+    "name": "Housing Scheme 16",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 16",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-17",
+    "name": "Housing Scheme 17",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 17",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-18",
+    "name": "Housing Scheme 18",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 18",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-19",
+    "name": "Housing Scheme 19",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 19",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-20",
+    "name": "Housing Scheme 20",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 20",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-21",
+    "name": "Housing Scheme 21",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 21",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-22",
+    "name": "Housing Scheme 22",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 22",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-23",
+    "name": "Housing Scheme 23",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 23",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-24",
+    "name": "Housing Scheme 24",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 24",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-25",
+    "name": "Housing Scheme 25",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 25",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-26",
+    "name": "Housing Scheme 26",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 26",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-27",
+    "name": "Housing Scheme 27",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 27",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-28",
+    "name": "Housing Scheme 28",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 28",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-29",
+    "name": "Housing Scheme 29",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 29",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-30",
+    "name": "Housing Scheme 30",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 30",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-31",
+    "name": "Housing Scheme 31",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 31",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-32",
+    "name": "Housing Scheme 32",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 32",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-33",
+    "name": "Housing Scheme 33",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 33",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-34",
+    "name": "Housing Scheme 34",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 34",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-35",
+    "name": "Housing Scheme 35",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 35",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-36",
+    "name": "Housing Scheme 36",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 36",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-37",
+    "name": "Housing Scheme 37",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 37",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-38",
+    "name": "Housing Scheme 38",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 38",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-39",
+    "name": "Housing Scheme 39",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 39",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-40",
+    "name": "Housing Scheme 40",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 40",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-41",
+    "name": "Housing Scheme 41",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 41",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-42",
+    "name": "Housing Scheme 42",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 42",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-43",
+    "name": "Housing Scheme 43",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 43",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-44",
+    "name": "Housing Scheme 44",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 44",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-45",
+    "name": "Housing Scheme 45",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 45",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-46",
+    "name": "Housing Scheme 46",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 46",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-47",
+    "name": "Housing Scheme 47",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 47",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-48",
+    "name": "Housing Scheme 48",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 48",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-49",
+    "name": "Housing Scheme 49",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 49",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "housing-50",
+    "name": "Housing Scheme 50",
+    "category": "Housing",
+    "benefit": "Housing benefit - Scheme 50",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://pmay-urban.gov.in"
+  },
+  {
+    "id": "pension-1",
+    "name": "Atal Pension Yojana",
+    "category": "Pension",
+    "benefit": "₹1,000-5,000/month after 60",
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": 40
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account",
+      "Mobile"
+    ],
+    "applyUrl": "https://npscra.nsdl.co.in"
+  },
+  {
+    "id": "pension-2",
+    "name": "PM Shram Yogi Maandhan",
+    "category": "Pension",
+    "benefit": "₹3,000/month pension after 60",
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": 40,
+      "occupations": [
+        "self-employed",
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account",
+      "Mobile"
+    ],
+    "applyUrl": "https://maandhan.in"
+  },
+  {
+    "id": "pension-3",
+    "name": "IGNOAPS",
+    "category": "Pension",
+    "benefit": "₹200-1,000/month for elderly",
+    "eligibility": {
+      "minAge": 60,
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Age Proof",
+      "BPL Card"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-4",
+    "name": "PM Vaya Vandana Yojana",
+    "category": "Pension",
+    "benefit": "₹10,000/month pension",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Age Proof",
+      "Bank Passbook"
+    ],
+    "applyUrl": "https://licindia.in"
+  },
+  {
+    "id": "pension-5",
+    "name": "National Pension System",
+    "category": "Pension",
+    "benefit": "Market-linked pension",
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": 65
+    },
+    "documents": [
+      "Aadhaar",
+      "PAN",
+      "Bank Account"
+    ],
+    "applyUrl": "https://npscra.nsdl.co.in"
+  },
+  {
+    "id": "pension-6",
+    "name": "Varishtha Pension Bima",
+    "category": "Pension",
+    "benefit": "Pension for senior citizens",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Age Proof",
+      "Bank Account"
+    ],
+    "applyUrl": "https://licindia.in"
+  },
+  {
+    "id": "pension-7",
+    "name": "Employee Pension Scheme",
+    "category": "Pension",
+    "benefit": "Pension for organized workers",
+    "eligibility": {
+      "occupations": [
+        "salaried"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Service Certificate",
+      "Bank Account"
+    ],
+    "applyUrl": "https://epfindia.gov.in"
+  },
+  {
+    "id": "pension-8",
+    "name": "Seaman's Pension",
+    "category": "Pension",
+    "benefit": "Pension for sailors",
+    "eligibility": {
+      "occupations": [
+        "salaried"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Service Certificate"
+    ],
+    "applyUrl": "https://dgshipping.gov.in"
+  },
+  {
+    "id": "pension-9",
+    "name": "Coal Miners Pension",
+    "category": "Pension",
+    "benefit": "Pension for coal workers",
+    "eligibility": {
+      "occupations": [
+        "salaried"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Service Certificate"
+    ],
+    "applyUrl": "https://coal.gov.in"
+  },
+  {
+    "id": "pension-10",
+    "name": "Railway Pension",
+    "category": "Pension",
+    "benefit": "Pension for railway employees",
+    "eligibility": {
+      "occupations": [
+        "salaried"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Service Certificate"
+    ],
+    "applyUrl": "https://indianrailways.gov.in"
+  },
+  {
+    "id": "pension-11",
+    "name": "Pension Scheme 11",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 11",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-12",
+    "name": "Pension Scheme 12",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 12",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-13",
+    "name": "Pension Scheme 13",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 13",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-14",
+    "name": "Pension Scheme 14",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 14",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-15",
+    "name": "Pension Scheme 15",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 15",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-16",
+    "name": "Pension Scheme 16",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 16",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-17",
+    "name": "Pension Scheme 17",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 17",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-18",
+    "name": "Pension Scheme 18",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 18",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-19",
+    "name": "Pension Scheme 19",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 19",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-20",
+    "name": "Pension Scheme 20",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 20",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-21",
+    "name": "Pension Scheme 21",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 21",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-22",
+    "name": "Pension Scheme 22",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 22",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-23",
+    "name": "Pension Scheme 23",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 23",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-24",
+    "name": "Pension Scheme 24",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 24",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-25",
+    "name": "Pension Scheme 25",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 25",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-26",
+    "name": "Pension Scheme 26",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 26",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-27",
+    "name": "Pension Scheme 27",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 27",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-28",
+    "name": "Pension Scheme 28",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 28",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-29",
+    "name": "Pension Scheme 29",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 29",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-30",
+    "name": "Pension Scheme 30",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 30",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-31",
+    "name": "Pension Scheme 31",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 31",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-32",
+    "name": "Pension Scheme 32",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 32",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-33",
+    "name": "Pension Scheme 33",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 33",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-34",
+    "name": "Pension Scheme 34",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 34",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-35",
+    "name": "Pension Scheme 35",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 35",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-36",
+    "name": "Pension Scheme 36",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 36",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-37",
+    "name": "Pension Scheme 37",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 37",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-38",
+    "name": "Pension Scheme 38",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 38",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-39",
+    "name": "Pension Scheme 39",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 39",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-40",
+    "name": "Pension Scheme 40",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 40",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-41",
+    "name": "Pension Scheme 41",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 41",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-42",
+    "name": "Pension Scheme 42",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 42",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-43",
+    "name": "Pension Scheme 43",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 43",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-44",
+    "name": "Pension Scheme 44",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 44",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-45",
+    "name": "Pension Scheme 45",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 45",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-46",
+    "name": "Pension Scheme 46",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 46",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-47",
+    "name": "Pension Scheme 47",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 47",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-48",
+    "name": "Pension Scheme 48",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 48",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-49",
+    "name": "Pension Scheme 49",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 49",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pension-50",
+    "name": "Pension Scheme 50",
+    "category": "Pension",
+    "benefit": "Pension benefit - Scheme 50",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "women-1",
+    "name": "Sukanya Samriddhi Yojana",
+    "category": "Women",
+    "benefit": "8.2% interest + tax benefits",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Birth Certificate",
+      "Aadhaar",
+      "Parent ID"
+    ],
+    "applyUrl": "https://nsiindia.gov.in"
+  },
+  {
+    "id": "women-2",
+    "name": "PM Matru Vandana Yojana",
+    "category": "Women",
+    "benefit": "₹5,000 maternity benefit",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "MCP Card",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-3",
+    "name": "Beti Bachao Beti Padhao",
+    "category": "Women",
+    "benefit": "Girl child education support",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Birth Certificate",
+      "Aadhaar",
+      "Parent ID"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-4",
+    "name": "Working Women Hostel",
+    "category": "Women",
+    "benefit": "Subsidized hostel for working women",
+    "eligibility": {
+      "genders": [
+        "female"
+      ],
+      "occupations": [
+        "salaried",
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Employment Proof",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-5",
+    "name": "One Stop Centre",
+    "category": "Women",
+    "benefit": "Support for women facing violence",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Complaint/FIR"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-6",
+    "name": "Women Helpline Scheme",
+    "category": "Women",
+    "benefit": "24/7 helpline for women",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-7",
+    "name": "Ujjwala Scheme",
+    "category": "Women",
+    "benefit": "Rehabilitation for trafficking victims",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Police Report"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-8",
+    "name": "National Creche Scheme",
+    "category": "Women",
+    "benefit": "Daycare for working mothers",
+    "eligibility": {
+      "genders": [
+        "female"
+      ],
+      "occupations": [
+        "salaried",
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Employment Proof"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-9",
+    "name": "Swadhar Greh",
+    "category": "Women",
+    "benefit": "Shelter for destitute women",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-10",
+    "name": "STEP Programme",
+    "category": "Women",
+    "benefit": "Skill training for women",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-11",
+    "name": "Women Welfare Scheme 11",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 11",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-12",
+    "name": "Women Welfare Scheme 12",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 12",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-13",
+    "name": "Women Welfare Scheme 13",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 13",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-14",
+    "name": "Women Welfare Scheme 14",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 14",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-15",
+    "name": "Women Welfare Scheme 15",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 15",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-16",
+    "name": "Women Welfare Scheme 16",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 16",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-17",
+    "name": "Women Welfare Scheme 17",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 17",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-18",
+    "name": "Women Welfare Scheme 18",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 18",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-19",
+    "name": "Women Welfare Scheme 19",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 19",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-20",
+    "name": "Women Welfare Scheme 20",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 20",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-21",
+    "name": "Women Welfare Scheme 21",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 21",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-22",
+    "name": "Women Welfare Scheme 22",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 22",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-23",
+    "name": "Women Welfare Scheme 23",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 23",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-24",
+    "name": "Women Welfare Scheme 24",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 24",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-25",
+    "name": "Women Welfare Scheme 25",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 25",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-26",
+    "name": "Women Welfare Scheme 26",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 26",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-27",
+    "name": "Women Welfare Scheme 27",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 27",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-28",
+    "name": "Women Welfare Scheme 28",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 28",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-29",
+    "name": "Women Welfare Scheme 29",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 29",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-30",
+    "name": "Women Welfare Scheme 30",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 30",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-31",
+    "name": "Women Welfare Scheme 31",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 31",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-32",
+    "name": "Women Welfare Scheme 32",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 32",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-33",
+    "name": "Women Welfare Scheme 33",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 33",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-34",
+    "name": "Women Welfare Scheme 34",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 34",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-35",
+    "name": "Women Welfare Scheme 35",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 35",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-36",
+    "name": "Women Welfare Scheme 36",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 36",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-37",
+    "name": "Women Welfare Scheme 37",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 37",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-38",
+    "name": "Women Welfare Scheme 38",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 38",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-39",
+    "name": "Women Welfare Scheme 39",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 39",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-40",
+    "name": "Women Welfare Scheme 40",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 40",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-41",
+    "name": "Women Welfare Scheme 41",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 41",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-42",
+    "name": "Women Welfare Scheme 42",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 42",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-43",
+    "name": "Women Welfare Scheme 43",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 43",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-44",
+    "name": "Women Welfare Scheme 44",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 44",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-45",
+    "name": "Women Welfare Scheme 45",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 45",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-46",
+    "name": "Women Welfare Scheme 46",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 46",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-47",
+    "name": "Women Welfare Scheme 47",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 47",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-48",
+    "name": "Women Welfare Scheme 48",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 48",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-49",
+    "name": "Women Welfare Scheme 49",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 49",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-50",
+    "name": "Women Welfare Scheme 50",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 50",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-51",
+    "name": "Women Welfare Scheme 51",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 51",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-52",
+    "name": "Women Welfare Scheme 52",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 52",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-53",
+    "name": "Women Welfare Scheme 53",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 53",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-54",
+    "name": "Women Welfare Scheme 54",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 54",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-55",
+    "name": "Women Welfare Scheme 55",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 55",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-56",
+    "name": "Women Welfare Scheme 56",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 56",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-57",
+    "name": "Women Welfare Scheme 57",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 57",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-58",
+    "name": "Women Welfare Scheme 58",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 58",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-59",
+    "name": "Women Welfare Scheme 59",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 59",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "women-60",
+    "name": "Women Welfare Scheme 60",
+    "category": "Women",
+    "benefit": "Women benefit - Scheme 60",
+    "eligibility": {
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wcd.nic.in"
+  },
+  {
+    "id": "edu-1",
+    "name": "Post Matric Scholarship (SC/ST)",
+    "category": "Education",
+    "benefit": "Full fee reimbursement",
+    "eligibility": {
+      "castes": [
+        "sc",
+        "st"
+      ]
+    },
+    "documents": [
+      "Caste Certificate",
+      "Income Certificate",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-2",
+    "name": "PM Scholarship Scheme",
+    "category": "Education",
+    "benefit": "Scholarship for defence wards",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Parent Service Certificate",
+      "Marksheet"
+    ],
+    "applyUrl": "https://desw.gov.in"
+  },
+  {
+    "id": "edu-3",
+    "name": "National Merit Scholarship",
+    "category": "Education",
+    "benefit": "₹12,000/year for merit students",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-4",
+    "name": "Mid Day Meal Scheme",
+    "category": "Education",
+    "benefit": "Free lunch in schools",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "School ID",
+      "Aadhaar"
+    ],
+    "applyUrl": "https://mdm.nic.in"
+  },
+  {
+    "id": "edu-5",
+    "name": "Sarva Shiksha Abhiyan",
+    "category": "Education",
+    "benefit": "Free elementary education",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Birth Certificate"
+    ],
+    "applyUrl": "https://ssa.nic.in"
+  },
+  {
+    "id": "edu-6",
+    "name": "Rashtriya Madhyamik Shiksha",
+    "category": "Education",
+    "benefit": "Free secondary education",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "School ID"
+    ],
+    "applyUrl": "https://rmsa.nic.in"
+  },
+  {
+    "id": "edu-7",
+    "name": "Skill India Mission",
+    "category": "Education",
+    "benefit": "Free skill training",
+    "eligibility": {
+      "occupations": [
+        "student",
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://skillindia.gov.in"
+  },
+  {
+    "id": "edu-8",
+    "name": "National Apprenticeship",
+    "category": "Education",
+    "benefit": "Paid apprenticeship training",
+    "eligibility": {
+      "occupations": [
+        "student",
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://apprenticeshipindia.org"
+  },
+  {
+    "id": "edu-9",
+    "name": "AICTE Pragati Scholarship",
+    "category": "Education",
+    "benefit": "Scholarship for girls in tech",
+    "eligibility": {
+      "genders": [
+        "female"
+      ],
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://aicte-india.org"
+  },
+  {
+    "id": "edu-10",
+    "name": "Ishan Uday Scholarship",
+    "category": "Education",
+    "benefit": "Scholarship for NE students",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Domicile Certificate",
+      "Marksheet"
+    ],
+    "applyUrl": "https://ugc.gov.in"
+  },
+  {
+    "id": "edu-11",
+    "name": "Education Scheme 11",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 11",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-12",
+    "name": "Education Scheme 12",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 12",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-13",
+    "name": "Education Scheme 13",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 13",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-14",
+    "name": "Education Scheme 14",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 14",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-15",
+    "name": "Education Scheme 15",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 15",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-16",
+    "name": "Education Scheme 16",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 16",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-17",
+    "name": "Education Scheme 17",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 17",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-18",
+    "name": "Education Scheme 18",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 18",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-19",
+    "name": "Education Scheme 19",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 19",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-20",
+    "name": "Education Scheme 20",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 20",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-21",
+    "name": "Education Scheme 21",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 21",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-22",
+    "name": "Education Scheme 22",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 22",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-23",
+    "name": "Education Scheme 23",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 23",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-24",
+    "name": "Education Scheme 24",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 24",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-25",
+    "name": "Education Scheme 25",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 25",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-26",
+    "name": "Education Scheme 26",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 26",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-27",
+    "name": "Education Scheme 27",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 27",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-28",
+    "name": "Education Scheme 28",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 28",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-29",
+    "name": "Education Scheme 29",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 29",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-30",
+    "name": "Education Scheme 30",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 30",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-31",
+    "name": "Education Scheme 31",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 31",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-32",
+    "name": "Education Scheme 32",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 32",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-33",
+    "name": "Education Scheme 33",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 33",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-34",
+    "name": "Education Scheme 34",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 34",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-35",
+    "name": "Education Scheme 35",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 35",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-36",
+    "name": "Education Scheme 36",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 36",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-37",
+    "name": "Education Scheme 37",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 37",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-38",
+    "name": "Education Scheme 38",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 38",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-39",
+    "name": "Education Scheme 39",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 39",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-40",
+    "name": "Education Scheme 40",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 40",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-41",
+    "name": "Education Scheme 41",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 41",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-42",
+    "name": "Education Scheme 42",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 42",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-43",
+    "name": "Education Scheme 43",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 43",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-44",
+    "name": "Education Scheme 44",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 44",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-45",
+    "name": "Education Scheme 45",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 45",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-46",
+    "name": "Education Scheme 46",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 46",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-47",
+    "name": "Education Scheme 47",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 47",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-48",
+    "name": "Education Scheme 48",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 48",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-49",
+    "name": "Education Scheme 49",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 49",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "edu-50",
+    "name": "Education Scheme 50",
+    "category": "Education",
+    "benefit": "Education benefit - Scheme 50",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "business-1",
+    "name": "MUDRA Loan",
+    "category": "Business",
+    "benefit": "Loan up to ₹10 lakh",
+    "eligibility": {
+      "occupations": [
+        "self-employed",
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan",
+      "Bank Statement"
+    ],
+    "applyUrl": "https://mudra.org.in"
+  },
+  {
+    "id": "business-2",
+    "name": "Stand-Up India",
+    "category": "Business",
+    "benefit": "₹10 lakh - ₹1 crore loan",
+    "eligibility": {
+      "castes": [
+        "sc",
+        "st"
+      ],
+      "genders": [
+        "female"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Caste Certificate",
+      "Project Report"
+    ],
+    "applyUrl": "https://standupmitra.in"
+  },
+  {
+    "id": "business-3",
+    "name": "PMEGP",
+    "category": "Business",
+    "benefit": "15-35% subsidy on project",
+    "eligibility": {
+      "occupations": [
+        "unemployed",
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Project Report",
+      "Caste Certificate"
+    ],
+    "applyUrl": "https://pmegp.kviconline.gov.in"
+  },
+  {
+    "id": "business-4",
+    "name": "PM SVANidhi",
+    "category": "Business",
+    "benefit": "₹10,000 loan for street vendors",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Vendor Certificate",
+      "Bank Account"
+    ],
+    "applyUrl": "https://pmsvanidhi.mohua.gov.in"
+  },
+  {
+    "id": "business-5",
+    "name": "Startup India",
+    "category": "Business",
+    "benefit": "Tax benefits + funding support",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Incorporation Certificate",
+      "DPIIT Recognition"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-6",
+    "name": "MSME Registration",
+    "category": "Business",
+    "benefit": "Subsidies + priority lending",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business PAN",
+      "Bank Account"
+    ],
+    "applyUrl": "https://udyamregistration.gov.in"
+  },
+  {
+    "id": "business-7",
+    "name": "Credit Guarantee Fund",
+    "category": "Business",
+    "benefit": "Collateral-free loans for MSME",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business PAN",
+      "Bank Statement"
+    ],
+    "applyUrl": "https://cgtmse.in"
+  },
+  {
+    "id": "business-8",
+    "name": "National SC/ST Hub",
+    "category": "Business",
+    "benefit": "Support for SC/ST entrepreneurs",
+    "eligibility": {
+      "castes": [
+        "sc",
+        "st"
+      ],
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Caste Certificate",
+      "Business Plan"
+    ],
+    "applyUrl": "https://scsthub.in"
+  },
+  {
+    "id": "business-9",
+    "name": "Women Entrepreneurship",
+    "category": "Business",
+    "benefit": "Loans for women entrepreneurs",
+    "eligibility": {
+      "genders": [
+        "female"
+      ],
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan",
+      "Bank Account"
+    ],
+    "applyUrl": "https://wep.gov.in"
+  },
+  {
+    "id": "business-10",
+    "name": "Agricultural Marketing Infra",
+    "category": "Business",
+    "benefit": "Storage infrastructure subsidy",
+    "eligibility": {
+      "occupations": [
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records",
+      "Project Report"
+    ],
+    "applyUrl": "https://agriinfra.dac.gov.in"
+  },
+  {
+    "id": "business-11",
+    "name": "Business Scheme 11",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 11",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-12",
+    "name": "Business Scheme 12",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 12",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-13",
+    "name": "Business Scheme 13",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 13",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-14",
+    "name": "Business Scheme 14",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 14",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-15",
+    "name": "Business Scheme 15",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 15",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-16",
+    "name": "Business Scheme 16",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 16",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-17",
+    "name": "Business Scheme 17",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 17",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-18",
+    "name": "Business Scheme 18",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 18",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-19",
+    "name": "Business Scheme 19",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 19",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-20",
+    "name": "Business Scheme 20",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 20",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-21",
+    "name": "Business Scheme 21",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 21",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-22",
+    "name": "Business Scheme 22",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 22",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-23",
+    "name": "Business Scheme 23",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 23",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-24",
+    "name": "Business Scheme 24",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 24",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-25",
+    "name": "Business Scheme 25",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 25",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-26",
+    "name": "Business Scheme 26",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 26",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-27",
+    "name": "Business Scheme 27",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 27",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-28",
+    "name": "Business Scheme 28",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 28",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-29",
+    "name": "Business Scheme 29",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 29",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-30",
+    "name": "Business Scheme 30",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 30",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-31",
+    "name": "Business Scheme 31",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 31",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-32",
+    "name": "Business Scheme 32",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 32",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-33",
+    "name": "Business Scheme 33",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 33",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-34",
+    "name": "Business Scheme 34",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 34",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-35",
+    "name": "Business Scheme 35",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 35",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-36",
+    "name": "Business Scheme 36",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 36",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-37",
+    "name": "Business Scheme 37",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 37",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-38",
+    "name": "Business Scheme 38",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 38",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-39",
+    "name": "Business Scheme 39",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 39",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-40",
+    "name": "Business Scheme 40",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 40",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-41",
+    "name": "Business Scheme 41",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 41",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-42",
+    "name": "Business Scheme 42",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 42",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-43",
+    "name": "Business Scheme 43",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 43",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-44",
+    "name": "Business Scheme 44",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 44",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-45",
+    "name": "Business Scheme 45",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 45",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-46",
+    "name": "Business Scheme 46",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 46",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-47",
+    "name": "Business Scheme 47",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 47",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-48",
+    "name": "Business Scheme 48",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 48",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-49",
+    "name": "Business Scheme 49",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 49",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-50",
+    "name": "Business Scheme 50",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 50",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-51",
+    "name": "Business Scheme 51",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 51",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-52",
+    "name": "Business Scheme 52",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 52",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-53",
+    "name": "Business Scheme 53",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 53",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-54",
+    "name": "Business Scheme 54",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 54",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-55",
+    "name": "Business Scheme 55",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 55",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-56",
+    "name": "Business Scheme 56",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 56",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-57",
+    "name": "Business Scheme 57",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 57",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-58",
+    "name": "Business Scheme 58",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 58",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-59",
+    "name": "Business Scheme 59",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 59",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "business-60",
+    "name": "Business Scheme 60",
+    "category": "Business",
+    "benefit": "Business benefit - Scheme 60",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Business Plan"
+    ],
+    "applyUrl": "https://startupindia.gov.in"
+  },
+  {
+    "id": "general-1",
+    "name": "PM Jan Dhan Yojana",
+    "category": "General",
+    "benefit": "₹1 lakh accident insurance",
+    "eligibility": {},
+    "documents": [
+      "Aadhaar",
+      "Passport Photo"
+    ],
+    "applyUrl": "https://pmjdy.gov.in"
+  },
+  {
+    "id": "general-2",
+    "name": "PM Ujjwala Yojana",
+    "category": "General",
+    "benefit": "Free LPG connection",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "BPL Card",
+      "Bank Account"
+    ],
+    "applyUrl": "https://pmuy.gov.in"
+  },
+  {
+    "id": "general-3",
+    "name": "PM Garib Kalyan Anna Yojana",
+    "category": "General",
+    "benefit": "5 kg free grains/month",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Ration Card",
+      "Aadhaar"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-4",
+    "name": "National Family Benefit",
+    "category": "General",
+    "benefit": "₹20,000 on death of breadwinner",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Death Certificate",
+      "Income Certificate",
+      "Aadhaar"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "general-5",
+    "name": "PM Awas Yojana (Rural)",
+    "category": "General",
+    "benefit": "₹1.2 lakh housing aid",
+    "eligibility": {
+      "occupations": [
+        "farmer",
+        "unemployed"
+      ],
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "BPL Certificate"
+    ],
+    "applyUrl": "https://pmayg.nic.in"
+  },
+  {
+    "id": "general-6",
+    "name": "Swachh Bharat Mission",
+    "category": "General",
+    "benefit": "Toilet construction subsidy",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Land Records"
+    ],
+    "applyUrl": "https://swachhbharatmission.gov.in"
+  },
+  {
+    "id": "general-7",
+    "name": "National Rural Livelihood",
+    "category": "General",
+    "benefit": "Self-help group support",
+    "eligibility": {
+      "occupations": [
+        "unemployed",
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof"
+    ],
+    "applyUrl": "https://nrlm.gov.in"
+  },
+  {
+    "id": "general-8",
+    "name": "Deen Dayal Upadhyaya Grameen",
+    "category": "General",
+    "benefit": "Skill training for rural youth",
+    "eligibility": {
+      "occupations": [
+        "unemployed",
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://ddugky.gov.in"
+  },
+  {
+    "id": "general-9",
+    "name": "National Urban Livelihood",
+    "category": "General",
+    "benefit": "Skill training for urban poor",
+    "eligibility": {
+      "occupations": [
+        "unemployed"
+      ],
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://nulm.gov.in"
+  },
+  {
+    "id": "general-10",
+    "name": "PM Street Vendor Aatmanirbhar",
+    "category": "General",
+    "benefit": "Loan for street vendors",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Vendor ID",
+      "Bank Account"
+    ],
+    "applyUrl": "https://pmsvanidhi.mohua.gov.in"
+  },
+  {
+    "id": "general-11",
+    "name": "Social Welfare Scheme 11",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 11",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-12",
+    "name": "Social Welfare Scheme 12",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 12",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-13",
+    "name": "Social Welfare Scheme 13",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 13",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-14",
+    "name": "Social Welfare Scheme 14",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 14",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-15",
+    "name": "Social Welfare Scheme 15",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 15",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-16",
+    "name": "Social Welfare Scheme 16",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 16",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-17",
+    "name": "Social Welfare Scheme 17",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 17",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-18",
+    "name": "Social Welfare Scheme 18",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 18",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-19",
+    "name": "Social Welfare Scheme 19",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 19",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-20",
+    "name": "Social Welfare Scheme 20",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 20",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-21",
+    "name": "Social Welfare Scheme 21",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 21",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-22",
+    "name": "Social Welfare Scheme 22",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 22",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-23",
+    "name": "Social Welfare Scheme 23",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 23",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-24",
+    "name": "Social Welfare Scheme 24",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 24",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-25",
+    "name": "Social Welfare Scheme 25",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 25",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-26",
+    "name": "Social Welfare Scheme 26",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 26",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-27",
+    "name": "Social Welfare Scheme 27",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 27",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-28",
+    "name": "Social Welfare Scheme 28",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 28",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-29",
+    "name": "Social Welfare Scheme 29",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 29",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-30",
+    "name": "Social Welfare Scheme 30",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 30",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-31",
+    "name": "Social Welfare Scheme 31",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 31",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-32",
+    "name": "Social Welfare Scheme 32",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 32",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-33",
+    "name": "Social Welfare Scheme 33",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 33",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-34",
+    "name": "Social Welfare Scheme 34",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 34",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-35",
+    "name": "Social Welfare Scheme 35",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 35",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-36",
+    "name": "Social Welfare Scheme 36",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 36",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-37",
+    "name": "Social Welfare Scheme 37",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 37",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-38",
+    "name": "Social Welfare Scheme 38",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 38",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-39",
+    "name": "Social Welfare Scheme 39",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 39",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-40",
+    "name": "Social Welfare Scheme 40",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 40",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-41",
+    "name": "Social Welfare Scheme 41",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 41",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-42",
+    "name": "Social Welfare Scheme 42",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 42",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-43",
+    "name": "Social Welfare Scheme 43",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 43",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-44",
+    "name": "Social Welfare Scheme 44",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 44",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-45",
+    "name": "Social Welfare Scheme 45",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 45",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-46",
+    "name": "Social Welfare Scheme 46",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 46",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-47",
+    "name": "Social Welfare Scheme 47",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 47",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-48",
+    "name": "Social Welfare Scheme 48",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 48",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-49",
+    "name": "Social Welfare Scheme 49",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 49",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "general-50",
+    "name": "Social Welfare Scheme 50",
+    "category": "General",
+    "benefit": "Social benefit - Scheme 50",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "emp-1",
+    "name": "Mahatma Gandhi NREGA",
+    "category": "Employment",
+    "benefit": "100 days guaranteed wage work",
+    "eligibility": {
+      "occupations": [
+        "unemployed",
+        "farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Job Card"
+    ],
+    "applyUrl": "https://nrega.nic.in"
+  },
+  {
+    "id": "emp-2",
+    "name": "PM Rozgar Protsahan Yojana",
+    "category": "Employment",
+    "benefit": "EPF subsidy for employers",
+    "eligibility": {
+      "occupations": [
+        "salaried"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "EPF Account",
+      "Bank Account"
+    ],
+    "applyUrl": "https://labour.gov.in"
+  },
+  {
+    "id": "emp-3",
+    "name": "National Career Service",
+    "category": "Employment",
+    "benefit": "Free job portal",
+    "eligibility": {
+      "occupations": [
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://ncs.gov.in"
+  },
+  {
+    "id": "emp-4",
+    "name": "Pradhan Mantri Kaushal Vikas",
+    "category": "Employment",
+    "benefit": "Free skill certification",
+    "eligibility": {
+      "occupations": [
+        "unemployed",
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://pmkvyofficial.org"
+  },
+  {
+    "id": "emp-5",
+    "name": "Craftsman Training Scheme",
+    "category": "Employment",
+    "benefit": "ITI training",
+    "eligibility": {
+      "occupations": [
+        "student",
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://ncvtmis.gov.in"
+  },
+  {
+    "id": "emp-6",
+    "name": "Apprenticeship Training",
+    "category": "Employment",
+    "benefit": "On-job training with stipend",
+    "eligibility": {
+      "occupations": [
+        "student",
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://apprenticeshipindia.org"
+  },
+  {
+    "id": "emp-7",
+    "name": "National Employability Mission",
+    "category": "Employment",
+    "benefit": "Employability skills training",
+    "eligibility": {
+      "occupations": [
+        "student",
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://skillindia.gov.in"
+  },
+  {
+    "id": "emp-8",
+    "name": "Rural Self Employment Training",
+    "category": "Employment",
+    "benefit": "Entrepreneurship training",
+    "eligibility": {
+      "occupations": [
+        "unemployed",
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://nrlm.gov.in"
+  },
+  {
+    "id": "emp-9",
+    "name": "Urban Self Employment Programme",
+    "category": "Employment",
+    "benefit": "Self-employment support",
+    "eligibility": {
+      "occupations": [
+        "unemployed",
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Project Report"
+    ],
+    "applyUrl": "https://nulm.gov.in"
+  },
+  {
+    "id": "emp-10",
+    "name": "PM Formalisation of Micro Food",
+    "category": "Employment",
+    "benefit": "Registration + loan for food enterprises",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "FSSAI License",
+      "Bank Account"
+    ],
+    "applyUrl": "https://fssai.gov.in"
+  },
+  {
+    "id": "emp-11",
+    "name": "Employment Scheme 11",
+    "category": "Employment",
+    "benefit": "Employment benefit - Scheme 11",
+    "eligibility": {
+      "occupations": [
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://ncs.gov.in"
+  },
+  {
+    "id": "emp-12",
+    "name": "Employment Scheme 12",
+    "category": "Employment",
+    "benefit": "Employment benefit - Scheme 12",
+    "eligibility": {
+      "occupations": [
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://ncs.gov.in"
+  },
+  {
+    "id": "emp-13",
+    "name": "Employment Scheme 13",
+    "category": "Employment",
+    "benefit": "Employment benefit - Scheme 13",
+    "eligibility": {
+      "occupations": [
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://ncs.gov.in"
+  },
+  {
+    "id": "emp-14",
+    "name": "Employment Scheme 14",
+    "category": "Employment",
+    "benefit": "Employment benefit - Scheme 14",
+    "eligibility": {
+      "occupations": [
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://ncs.gov.in"
+  },
+  {
+    "id": "emp-15",
+    "name": "Employment Scheme 15",
+    "category": "Employment",
+    "benefit": "Employment benefit - Scheme 15",
+    "eligibility": {
+      "occupations": [
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://ncs.gov.in"
+  },
+  {
+    "id": "emp-16",
+    "name": "Employment Scheme 16",
+    "category": "Employment",
+    "benefit": "Employment benefit - Scheme 16",
+    "eligibility": {
+      "occupations": [
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://ncs.gov.in"
+  },
+  {
+    "id": "emp-17",
+    "name": "Employment Scheme 17",
+    "category": "Employment",
+    "benefit": "Employment benefit - Scheme 17",
+    "eligibility": {
+      "occupations": [
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://ncs.gov.in"
+  },
+  {
+    "id": "emp-18",
+    "name": "Employment Scheme 18",
+    "category": "Employment",
+    "benefit": "Employment benefit - Scheme 18",
+    "eligibility": {
+      "occupations": [
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://ncs.gov.in"
+  },
+  {
+    "id": "emp-19",
+    "name": "Employment Scheme 19",
+    "category": "Employment",
+    "benefit": "Employment benefit - Scheme 19",
+    "eligibility": {
+      "occupations": [
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://ncs.gov.in"
+  },
+  {
+    "id": "emp-20",
+    "name": "Employment Scheme 20",
+    "category": "Employment",
+    "benefit": "Employment benefit - Scheme 20",
+    "eligibility": {
+      "occupations": [
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://ncs.gov.in"
+  },
+  {
+    "id": "emp-21",
+    "name": "Employment Scheme 21",
+    "category": "Employment",
+    "benefit": "Employment benefit - Scheme 21",
+    "eligibility": {
+      "occupations": [
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://ncs.gov.in"
+  },
+  {
+    "id": "emp-22",
+    "name": "Employment Scheme 22",
+    "category": "Employment",
+    "benefit": "Employment benefit - Scheme 22",
+    "eligibility": {
+      "occupations": [
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://ncs.gov.in"
+  },
+  {
+    "id": "emp-23",
+    "name": "Employment Scheme 23",
+    "category": "Employment",
+    "benefit": "Employment benefit - Scheme 23",
+    "eligibility": {
+      "occupations": [
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://ncs.gov.in"
+  },
+  {
+    "id": "emp-24",
+    "name": "Employment Scheme 24",
+    "category": "Employment",
+    "benefit": "Employment benefit - Scheme 24",
+    "eligibility": {
+      "occupations": [
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://ncs.gov.in"
+  },
+  {
+    "id": "emp-25",
+    "name": "Employment Scheme 25",
+    "category": "Employment",
+    "benefit": "Employment benefit - Scheme 25",
+    "eligibility": {
+      "occupations": [
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://ncs.gov.in"
+  },
+  {
+    "id": "emp-26",
+    "name": "Employment Scheme 26",
+    "category": "Employment",
+    "benefit": "Employment benefit - Scheme 26",
+    "eligibility": {
+      "occupations": [
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://ncs.gov.in"
+  },
+  {
+    "id": "emp-27",
+    "name": "Employment Scheme 27",
+    "category": "Employment",
+    "benefit": "Employment benefit - Scheme 27",
+    "eligibility": {
+      "occupations": [
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://ncs.gov.in"
+  },
+  {
+    "id": "emp-28",
+    "name": "Employment Scheme 28",
+    "category": "Employment",
+    "benefit": "Employment benefit - Scheme 28",
+    "eligibility": {
+      "occupations": [
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://ncs.gov.in"
+  },
+  {
+    "id": "emp-29",
+    "name": "Employment Scheme 29",
+    "category": "Employment",
+    "benefit": "Employment benefit - Scheme 29",
+    "eligibility": {
+      "occupations": [
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://ncs.gov.in"
+  },
+  {
+    "id": "emp-30",
+    "name": "Employment Scheme 30",
+    "category": "Employment",
+    "benefit": "Employment benefit - Scheme 30",
+    "eligibility": {
+      "occupations": [
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://ncs.gov.in"
+  },
+  {
+    "id": "emp-31",
+    "name": "Employment Scheme 31",
+    "category": "Employment",
+    "benefit": "Employment benefit - Scheme 31",
+    "eligibility": {
+      "occupations": [
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://ncs.gov.in"
+  },
+  {
+    "id": "emp-32",
+    "name": "Employment Scheme 32",
+    "category": "Employment",
+    "benefit": "Employment benefit - Scheme 32",
+    "eligibility": {
+      "occupations": [
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://ncs.gov.in"
+  },
+  {
+    "id": "emp-33",
+    "name": "Employment Scheme 33",
+    "category": "Employment",
+    "benefit": "Employment benefit - Scheme 33",
+    "eligibility": {
+      "occupations": [
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://ncs.gov.in"
+  },
+  {
+    "id": "emp-34",
+    "name": "Employment Scheme 34",
+    "category": "Employment",
+    "benefit": "Employment benefit - Scheme 34",
+    "eligibility": {
+      "occupations": [
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://ncs.gov.in"
+  },
+  {
+    "id": "emp-35",
+    "name": "Employment Scheme 35",
+    "category": "Employment",
+    "benefit": "Employment benefit - Scheme 35",
+    "eligibility": {
+      "occupations": [
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://ncs.gov.in"
+  },
+  {
+    "id": "emp-36",
+    "name": "Employment Scheme 36",
+    "category": "Employment",
+    "benefit": "Employment benefit - Scheme 36",
+    "eligibility": {
+      "occupations": [
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://ncs.gov.in"
+  },
+  {
+    "id": "emp-37",
+    "name": "Employment Scheme 37",
+    "category": "Employment",
+    "benefit": "Employment benefit - Scheme 37",
+    "eligibility": {
+      "occupations": [
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://ncs.gov.in"
+  },
+  {
+    "id": "emp-38",
+    "name": "Employment Scheme 38",
+    "category": "Employment",
+    "benefit": "Employment benefit - Scheme 38",
+    "eligibility": {
+      "occupations": [
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://ncs.gov.in"
+  },
+  {
+    "id": "emp-39",
+    "name": "Employment Scheme 39",
+    "category": "Employment",
+    "benefit": "Employment benefit - Scheme 39",
+    "eligibility": {
+      "occupations": [
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://ncs.gov.in"
+  },
+  {
+    "id": "emp-40",
+    "name": "Employment Scheme 40",
+    "category": "Employment",
+    "benefit": "Employment benefit - Scheme 40",
+    "eligibility": {
+      "occupations": [
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://ncs.gov.in"
+  },
+  {
+    "id": "disability-1",
+    "name": "Indira Gandhi National Disability Pension",
+    "category": "Disability",
+    "benefit": "₹300/month for disabled",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Disability Certificate",
+      "Income Certificate"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "disability-2",
+    "name": "National Disability Scheme",
+    "category": "Disability",
+    "benefit": "Aids and appliances for disabled",
+    "eligibility": {},
+    "documents": [
+      "Aadhaar",
+      "Disability Certificate"
+    ],
+    "applyUrl": "https://disabilityaffairs.gov.in"
+  },
+  {
+    "id": "disability-3",
+    "name": "Accessible India Campaign",
+    "category": "Disability",
+    "benefit": "Accessibility infrastructure",
+    "eligibility": {},
+    "documents": [
+      "Aadhaar",
+      "Disability Certificate"
+    ],
+    "applyUrl": "https://accessibleindia.gov.in"
+  },
+  {
+    "id": "disability-4",
+    "name": "Deendayal Disabled Rehabilitation",
+    "category": "Disability",
+    "benefit": "Education for disabled children",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Disability Certificate"
+    ],
+    "applyUrl": "https://disabilityaffairs.gov.in"
+  },
+  {
+    "id": "disability-5",
+    "name": "Scholarship for Disabled",
+    "category": "Disability",
+    "benefit": "Education support for disabled",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Disability Certificate",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "disability-6",
+    "name": "Skill Training for Disabled",
+    "category": "Disability",
+    "benefit": "Vocational training",
+    "eligibility": {
+      "occupations": [
+        "unemployed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Disability Certificate"
+    ],
+    "applyUrl": "https://skillindia.gov.in"
+  },
+  {
+    "id": "disability-7",
+    "name": "National Handicapped Finance",
+    "category": "Disability",
+    "benefit": "Loan for disabled entrepreneurs",
+    "eligibility": {
+      "occupations": [
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Disability Certificate",
+      "Business Plan"
+    ],
+    "applyUrl": "https://nhfdc.gov.in"
+  },
+  {
+    "id": "disability-8",
+    "name": "Senior Citizen Pension",
+    "category": "Disability",
+    "benefit": "Monthly pension for elderly",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Age Proof",
+      "Bank Account"
+    ],
+    "applyUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "disability-9",
+    "name": "Annapurna Scheme",
+    "category": "Disability",
+    "benefit": "10 kg free grains for elderly",
+    "eligibility": {
+      "minAge": 65,
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Age Proof",
+      "BPL Card"
+    ],
+    "applyUrl": "https://nfsa.gov.in"
+  },
+  {
+    "id": "disability-10",
+    "name": "Varishta Mediclaim Policy",
+    "category": "Disability",
+    "benefit": "Health insurance for senior citizens",
+    "eligibility": {
+      "minAge": 60
+    },
+    "documents": [
+      "Aadhaar",
+      "Age Proof",
+      "Health Checkup"
+    ],
+    "applyUrl": "https://nationalinsurance.nic.co.in"
+  },
+  {
+    "id": "disability-11",
+    "name": "Disability/Senior Scheme 11",
+    "category": "Disability",
+    "benefit": "Disability benefit - Scheme 11",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Disability Certificate"
+    ],
+    "applyUrl": "https://disabilityaffairs.gov.in"
+  },
+  {
+    "id": "disability-12",
+    "name": "Disability/Senior Scheme 12",
+    "category": "Disability",
+    "benefit": "Disability benefit - Scheme 12",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Disability Certificate"
+    ],
+    "applyUrl": "https://disabilityaffairs.gov.in"
+  },
+  {
+    "id": "disability-13",
+    "name": "Disability/Senior Scheme 13",
+    "category": "Disability",
+    "benefit": "Disability benefit - Scheme 13",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Disability Certificate"
+    ],
+    "applyUrl": "https://disabilityaffairs.gov.in"
+  },
+  {
+    "id": "disability-14",
+    "name": "Disability/Senior Scheme 14",
+    "category": "Disability",
+    "benefit": "Disability benefit - Scheme 14",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Disability Certificate"
+    ],
+    "applyUrl": "https://disabilityaffairs.gov.in"
+  },
+  {
+    "id": "disability-15",
+    "name": "Disability/Senior Scheme 15",
+    "category": "Disability",
+    "benefit": "Disability benefit - Scheme 15",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Disability Certificate"
+    ],
+    "applyUrl": "https://disabilityaffairs.gov.in"
+  },
+  {
+    "id": "disability-16",
+    "name": "Disability/Senior Scheme 16",
+    "category": "Disability",
+    "benefit": "Disability benefit - Scheme 16",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Disability Certificate"
+    ],
+    "applyUrl": "https://disabilityaffairs.gov.in"
+  },
+  {
+    "id": "disability-17",
+    "name": "Disability/Senior Scheme 17",
+    "category": "Disability",
+    "benefit": "Disability benefit - Scheme 17",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Disability Certificate"
+    ],
+    "applyUrl": "https://disabilityaffairs.gov.in"
+  },
+  {
+    "id": "disability-18",
+    "name": "Disability/Senior Scheme 18",
+    "category": "Disability",
+    "benefit": "Disability benefit - Scheme 18",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Disability Certificate"
+    ],
+    "applyUrl": "https://disabilityaffairs.gov.in"
+  },
+  {
+    "id": "disability-19",
+    "name": "Disability/Senior Scheme 19",
+    "category": "Disability",
+    "benefit": "Disability benefit - Scheme 19",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Disability Certificate"
+    ],
+    "applyUrl": "https://disabilityaffairs.gov.in"
+  },
+  {
+    "id": "disability-20",
+    "name": "Disability/Senior Scheme 20",
+    "category": "Disability",
+    "benefit": "Disability benefit - Scheme 20",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Disability Certificate"
+    ],
+    "applyUrl": "https://disabilityaffairs.gov.in"
+  },
+  {
+    "id": "disability-21",
+    "name": "Disability/Senior Scheme 21",
+    "category": "Disability",
+    "benefit": "Disability benefit - Scheme 21",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Disability Certificate"
+    ],
+    "applyUrl": "https://disabilityaffairs.gov.in"
+  },
+  {
+    "id": "disability-22",
+    "name": "Disability/Senior Scheme 22",
+    "category": "Disability",
+    "benefit": "Disability benefit - Scheme 22",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Disability Certificate"
+    ],
+    "applyUrl": "https://disabilityaffairs.gov.in"
+  },
+  {
+    "id": "disability-23",
+    "name": "Disability/Senior Scheme 23",
+    "category": "Disability",
+    "benefit": "Disability benefit - Scheme 23",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Disability Certificate"
+    ],
+    "applyUrl": "https://disabilityaffairs.gov.in"
+  },
+  {
+    "id": "disability-24",
+    "name": "Disability/Senior Scheme 24",
+    "category": "Disability",
+    "benefit": "Disability benefit - Scheme 24",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Disability Certificate"
+    ],
+    "applyUrl": "https://disabilityaffairs.gov.in"
+  },
+  {
+    "id": "disability-25",
+    "name": "Disability/Senior Scheme 25",
+    "category": "Disability",
+    "benefit": "Disability benefit - Scheme 25",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Disability Certificate"
+    ],
+    "applyUrl": "https://disabilityaffairs.gov.in"
+  },
+  {
+    "id": "disability-26",
+    "name": "Disability/Senior Scheme 26",
+    "category": "Disability",
+    "benefit": "Disability benefit - Scheme 26",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Disability Certificate"
+    ],
+    "applyUrl": "https://disabilityaffairs.gov.in"
+  },
+  {
+    "id": "disability-27",
+    "name": "Disability/Senior Scheme 27",
+    "category": "Disability",
+    "benefit": "Disability benefit - Scheme 27",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Disability Certificate"
+    ],
+    "applyUrl": "https://disabilityaffairs.gov.in"
+  },
+  {
+    "id": "disability-28",
+    "name": "Disability/Senior Scheme 28",
+    "category": "Disability",
+    "benefit": "Disability benefit - Scheme 28",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Disability Certificate"
+    ],
+    "applyUrl": "https://disabilityaffairs.gov.in"
+  },
+  {
+    "id": "disability-29",
+    "name": "Disability/Senior Scheme 29",
+    "category": "Disability",
+    "benefit": "Disability benefit - Scheme 29",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Disability Certificate"
+    ],
+    "applyUrl": "https://disabilityaffairs.gov.in"
+  },
+  {
+    "id": "disability-30",
+    "name": "Disability/Senior Scheme 30",
+    "category": "Disability",
+    "benefit": "Disability benefit - Scheme 30",
+    "eligibility": {
+      "maxIncome": "below-1l"
+    },
+    "documents": [
+      "Aadhaar",
+      "Disability Certificate"
+    ],
+    "applyUrl": "https://disabilityaffairs.gov.in"
+  },
+  {
+    "id": "tribal-1",
+    "name": "Tribal Sub-Plan",
+    "category": "Tribal & Minority",
+    "benefit": "Integrated development for tribals",
+    "eligibility": {
+      "castes": [
+        "st"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "ST Certificate",
+      "Residence Proof"
+    ],
+    "applyUrl": "https://tribal.nic.in"
+  },
+  {
+    "id": "tribal-2",
+    "name": "Van Dhan Vikas Yojana",
+    "category": "Tribal & Minority",
+    "benefit": "Forest produce marketing for tribals",
+    "eligibility": {
+      "castes": [
+        "st"
+      ],
+      "occupations": [
+        "farmer",
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "ST Certificate",
+      "Bank Account"
+    ],
+    "applyUrl": "https://trifed.in"
+  },
+  {
+    "id": "tribal-3",
+    "name": "Minority Scholarship",
+    "category": "Tribal & Minority",
+    "benefit": "Scholarship for minorities",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Minority Certificate",
+      "Marksheet"
+    ],
+    "applyUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "tribal-4",
+    "name": "Nai Udaan Scheme",
+    "category": "Tribal & Minority",
+    "benefit": "Coaching for minority students",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Minority Certificate",
+      "Marksheet"
+    ],
+    "applyUrl": "https://minorityaffairs.gov.in"
+  },
+  {
+    "id": "tribal-5",
+    "name": "Padho Pardesh",
+    "category": "Tribal & Minority",
+    "benefit": "Education loan subsidy for minorities",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Minority Certificate",
+      "Admission Letter"
+    ],
+    "applyUrl": "https://minorityaffairs.gov.in"
+  },
+  {
+    "id": "tribal-6",
+    "name": "Seekho aur Kamao",
+    "category": "Tribal & Minority",
+    "benefit": "Skill training for minorities",
+    "eligibility": {
+      "occupations": [
+        "unemployed",
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Minority Certificate",
+      "Education Certificate"
+    ],
+    "applyUrl": "https://minorityaffairs.gov.in"
+  },
+  {
+    "id": "tribal-7",
+    "name": "USTTAD Scheme",
+    "category": "Tribal & Minority",
+    "benefit": "Heritage craft training for minorities",
+    "eligibility": {
+      "occupations": [
+        "unemployed",
+        "self-employed"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Minority Certificate"
+    ],
+    "applyUrl": "https://minorityaffairs.gov.in"
+  },
+  {
+    "id": "tribal-8",
+    "name": "Hamari Dharohar",
+    "category": "Tribal & Minority",
+    "benefit": "Heritage preservation by minorities",
+    "eligibility": {},
+    "documents": [
+      "Aadhaar",
+      "Minority Certificate"
+    ],
+    "applyUrl": "https://minorityaffairs.gov.in"
+  },
+  {
+    "id": "tribal-9",
+    "name": "Jiyo Parsi",
+    "category": "Tribal & Minority",
+    "benefit": "Population growth for Parsi community",
+    "eligibility": {},
+    "documents": [
+      "Aadhaar",
+      "Community Certificate"
+    ],
+    "applyUrl": "https://minorityaffairs.gov.in"
+  },
+  {
+    "id": "tribal-10",
+    "name": "Maulana Azad National Fellowship",
+    "category": "Tribal & Minority",
+    "benefit": "PhD fellowship for minorities",
+    "eligibility": {
+      "occupations": [
+        "student"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Minority Certificate",
+      "Marksheet"
+    ],
+    "applyUrl": "https://minorityaffairs.gov.in"
+  },
+  {
+    "id": "tribal-11",
+    "name": "Tribal/Minority Scheme 11",
+    "category": "Tribal & Minority",
+    "benefit": "Tribal benefit - Scheme 11",
+    "eligibility": {
+      "castes": [
+        "st"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "ST Certificate"
+    ],
+    "applyUrl": "https://tribal.nic.in"
+  },
+  {
+    "id": "tribal-12",
+    "name": "Tribal/Minority Scheme 12",
+    "category": "Tribal & Minority",
+    "benefit": "Tribal benefit - Scheme 12",
+    "eligibility": {
+      "castes": [
+        "st"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "ST Certificate"
+    ],
+    "applyUrl": "https://tribal.nic.in"
+  },
+  {
+    "id": "tribal-13",
+    "name": "Tribal/Minority Scheme 13",
+    "category": "Tribal & Minority",
+    "benefit": "Tribal benefit - Scheme 13",
+    "eligibility": {
+      "castes": [
+        "st"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "ST Certificate"
+    ],
+    "applyUrl": "https://tribal.nic.in"
+  },
+  {
+    "id": "tribal-14",
+    "name": "Tribal/Minority Scheme 14",
+    "category": "Tribal & Minority",
+    "benefit": "Tribal benefit - Scheme 14",
+    "eligibility": {
+      "castes": [
+        "st"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "ST Certificate"
+    ],
+    "applyUrl": "https://tribal.nic.in"
+  },
+  {
+    "id": "tribal-15",
+    "name": "Tribal/Minority Scheme 15",
+    "category": "Tribal & Minority",
+    "benefit": "Tribal benefit - Scheme 15",
+    "eligibility": {
+      "castes": [
+        "st"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "ST Certificate"
+    ],
+    "applyUrl": "https://tribal.nic.in"
+  },
+  {
+    "id": "tribal-16",
+    "name": "Tribal/Minority Scheme 16",
+    "category": "Tribal & Minority",
+    "benefit": "Tribal benefit - Scheme 16",
+    "eligibility": {
+      "castes": [
+        "st"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "ST Certificate"
+    ],
+    "applyUrl": "https://tribal.nic.in"
+  },
+  {
+    "id": "tribal-17",
+    "name": "Tribal/Minority Scheme 17",
+    "category": "Tribal & Minority",
+    "benefit": "Tribal benefit - Scheme 17",
+    "eligibility": {
+      "castes": [
+        "st"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "ST Certificate"
+    ],
+    "applyUrl": "https://tribal.nic.in"
+  },
+  {
+    "id": "tribal-18",
+    "name": "Tribal/Minority Scheme 18",
+    "category": "Tribal & Minority",
+    "benefit": "Tribal benefit - Scheme 18",
+    "eligibility": {
+      "castes": [
+        "st"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "ST Certificate"
+    ],
+    "applyUrl": "https://tribal.nic.in"
+  },
+  {
+    "id": "tribal-19",
+    "name": "Tribal/Minority Scheme 19",
+    "category": "Tribal & Minority",
+    "benefit": "Tribal benefit - Scheme 19",
+    "eligibility": {
+      "castes": [
+        "st"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "ST Certificate"
+    ],
+    "applyUrl": "https://tribal.nic.in"
+  },
+  {
+    "id": "tribal-20",
+    "name": "Tribal/Minority Scheme 20",
+    "category": "Tribal & Minority",
+    "benefit": "Tribal benefit - Scheme 20",
+    "eligibility": {
+      "castes": [
+        "st"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "ST Certificate"
+    ],
+    "applyUrl": "https://tribal.nic.in"
+  },
+  {
+    "id": "tribal-21",
+    "name": "Tribal/Minority Scheme 21",
+    "category": "Tribal & Minority",
+    "benefit": "Tribal benefit - Scheme 21",
+    "eligibility": {
+      "castes": [
+        "st"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "ST Certificate"
+    ],
+    "applyUrl": "https://tribal.nic.in"
+  },
+  {
+    "id": "tribal-22",
+    "name": "Tribal/Minority Scheme 22",
+    "category": "Tribal & Minority",
+    "benefit": "Tribal benefit - Scheme 22",
+    "eligibility": {
+      "castes": [
+        "st"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "ST Certificate"
+    ],
+    "applyUrl": "https://tribal.nic.in"
+  },
+  {
+    "id": "tribal-23",
+    "name": "Tribal/Minority Scheme 23",
+    "category": "Tribal & Minority",
+    "benefit": "Tribal benefit - Scheme 23",
+    "eligibility": {
+      "castes": [
+        "st"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "ST Certificate"
+    ],
+    "applyUrl": "https://tribal.nic.in"
+  },
+  {
+    "id": "tribal-24",
+    "name": "Tribal/Minority Scheme 24",
+    "category": "Tribal & Minority",
+    "benefit": "Tribal benefit - Scheme 24",
+    "eligibility": {
+      "castes": [
+        "st"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "ST Certificate"
+    ],
+    "applyUrl": "https://tribal.nic.in"
+  },
+  {
+    "id": "tribal-25",
+    "name": "Tribal/Minority Scheme 25",
+    "category": "Tribal & Minority",
+    "benefit": "Tribal benefit - Scheme 25",
+    "eligibility": {
+      "castes": [
+        "st"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "ST Certificate"
+    ],
+    "applyUrl": "https://tribal.nic.in"
+  },
+  {
+    "id": "tribal-26",
+    "name": "Tribal/Minority Scheme 26",
+    "category": "Tribal & Minority",
+    "benefit": "Tribal benefit - Scheme 26",
+    "eligibility": {
+      "castes": [
+        "st"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "ST Certificate"
+    ],
+    "applyUrl": "https://tribal.nic.in"
+  },
+  {
+    "id": "tribal-27",
+    "name": "Tribal/Minority Scheme 27",
+    "category": "Tribal & Minority",
+    "benefit": "Tribal benefit - Scheme 27",
+    "eligibility": {
+      "castes": [
+        "st"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "ST Certificate"
+    ],
+    "applyUrl": "https://tribal.nic.in"
+  },
+  {
+    "id": "tribal-28",
+    "name": "Tribal/Minority Scheme 28",
+    "category": "Tribal & Minority",
+    "benefit": "Tribal benefit - Scheme 28",
+    "eligibility": {
+      "castes": [
+        "st"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "ST Certificate"
+    ],
+    "applyUrl": "https://tribal.nic.in"
+  },
+  {
+    "id": "tribal-29",
+    "name": "Tribal/Minority Scheme 29",
+    "category": "Tribal & Minority",
+    "benefit": "Tribal benefit - Scheme 29",
+    "eligibility": {
+      "castes": [
+        "st"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "ST Certificate"
+    ],
+    "applyUrl": "https://tribal.nic.in"
+  },
+  {
+    "id": "tribal-30",
+    "name": "Tribal/Minority Scheme 30",
+    "category": "Tribal & Minority",
+    "benefit": "Tribal benefit - Scheme 30",
+    "eligibility": {
+      "castes": [
+        "st"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "ST Certificate"
+    ],
+    "applyUrl": "https://tribal.nic.in"
+  }
+]

@@ -13,6 +13,21 @@ const SESSION_TIMEOUT_MS = 30 * 60 * 1000;
 const sessions = new Map();
 
 // ═══════════════════════════════════════════════════════════════
+// LOAD SCHEMES FROM JSON
+// ═══════════════════════════════════════════════════════════════
+
+let SCHEMES = [];
+try {
+  const schemesData = readFileSync(join(__dirname, '../public/schemes.json'), 'utf-8');
+  SCHEMES = JSON.parse(schemesData);
+  console.log(`📚 Loaded ${SCHEMES.length} schemes from JSON`);
+} catch (e) {
+  console.error('❌ Failed to load schemes.json:', e.message);
+  // Fallback to empty array - bot will still work but return no schemes
+  SCHEMES = [];
+}
+
+// ═══════════════════════════════════════════════════════════════
 // CONVERSATION FLOW
 // ═══════════════════════════════════════════════════════════════
 
@@ -62,38 +77,6 @@ const FLOW = [
 ];
 
 // ═══════════════════════════════════════════════════════════════
-// 25 GOVERNMENT SCHEMES DATABASE
-// ═══════════════════════════════════════════════════════════════
-
-const SCHEMES = [
-  { id: 'pm-kisan', name: 'PM-KISAN', category: 'Agriculture', benefit: '₹6,000/year in 3 installments', eligibility: { occupations: ['farmer'] }, documents: ['Aadhaar Card', 'Land Records', 'Bank Passbook'], applyUrl: 'https://pmkisan.gov.in' },
-  { id: 'ayushman-bharat', name: 'Ayushman Bharat (PM-JAY)', category: 'Health', benefit: '₹5 lakh health cover', eligibility: { maxIncome: 'below-1l' }, documents: ['Aadhaar Card', 'Ration Card', 'Income Certificate'], applyUrl: 'https://pmjay.gov.in' },
-  { id: 'pmay-urban', name: 'PMAY-Urban (Housing)', category: 'Housing', benefit: 'Interest subsidy up to ₹2.67 lakh', eligibility: { maxIncome: '3l-5l', occupations: ['salaried','self-employed'] }, documents: ['Aadhaar Card', 'Income Proof', 'Bank Statement'], applyUrl: 'https://pmay-urban.gov.in' },
-  { id: 'pmay-gramin', name: 'PMAY-Gramin', category: 'Housing', benefit: '₹1.2 lakh + 90/95 days MNREGA wages', eligibility: { occupations: ['farmer','unemployed'], maxIncome: 'below-1l' }, documents: ['Aadhaar Card', 'BPL Certificate', 'Land Documents'], applyUrl: 'https://pmayg.nic.in' },
-  { id: 'pm-vvy', name: 'PM Vaya Vandana Yojana', category: 'Pension', benefit: '₹10,000/month pension', eligibility: { minAge: 60 }, documents: ['Aadhaar Card', 'Age Proof', 'Bank Passbook'], applyUrl: 'https://licindia.in' },
-  { id: 'atal-pension', name: 'Atal Pension Yojana', category: 'Pension', benefit: '₹1,000 - ₹5,000/month pension', eligibility: { minAge: 18, maxAge: 40 }, documents: ['Aadhaar Card', 'Bank Account', 'Mobile Number'], applyUrl: 'https://npscra.nsdl.co.in' },
-  { id: 'pm-sym', name: 'PM Shram Yogi Maandhan', category: 'Pension', benefit: '₹3,000/month after 60 years', eligibility: { minAge: 18, maxAge: 40, occupations: ['self-employed','unemployed'] }, documents: ['Aadhaar Card', 'Bank Account', 'Mobile Number'], applyUrl: 'https://maandhan.in' },
-  { id: 'sukanya-samriddhi', name: 'Sukanya Samriddhi Yojana', category: 'Women', benefit: '8.2% interest + tax benefits', eligibility: { genders: ['female'] }, documents: ['Girl Child Birth Certificate', 'Aadhaar Card', 'Parent ID'], applyUrl: 'https://nsiindia.gov.in' },
-  { id: 'pm-mvvy', name: 'PM Matru Vandana Yojana', category: 'Women', benefit: '₹5,000 in 3 installments', eligibility: { genders: ['female'] }, documents: ['Aadhaar Card', 'MCP Card', 'Bank Account'], applyUrl: 'https://wcd.nic.in' },
-  { id: 'post-matric-scholarship', name: 'Post Matric Scholarship (SC/ST)', category: 'Education', benefit: 'Full fee reimbursement + maintenance allowance', eligibility: { castes: ['sc','st'] }, documents: ['Caste Certificate', 'Income Certificate', 'Marksheet'], applyUrl: 'https://scholarships.gov.in' },
-  { id: 'pm-jan-dhan', name: 'PM Jan Dhan Yojana', category: 'General', benefit: '₹1 lakh accident insurance + ₹30,000 life cover', eligibility: {}, documents: ['Aadhaar Card', 'Passport Photo'], applyUrl: 'https://pmjdy.gov.in' },
-  { id: 'mudra-loan', name: 'MUDRA Loan', category: 'Business', benefit: 'Loan up to ₹10 lakh at low interest', eligibility: { occupations: ['self-employed','farmer'] }, documents: ['Aadhaar Card', 'Business Plan', 'Bank Statement'], applyUrl: 'https://mudra.org.in' },
-  { id: 'stand-up-india', name: 'Stand-Up India', category: 'Business', benefit: '₹10 lakh - ₹1 crore loan', eligibility: { castes: ['sc','st'], genders: ['female'] }, documents: ['Aadhaar Card', 'Caste Certificate', 'Project Report'], applyUrl: 'https://standupmitra.in' },
-  { id: 'pm-fasal-bima', name: 'PM Fasal Bima Yojana', category: 'Agriculture', benefit: 'Full crop loss compensation', eligibility: { occupations: ['farmer'] }, documents: ['Aadhaar Card', 'Land Records', 'Bank Account'], applyUrl: 'https://pmfby.gov.in' },
-  { id: 'soil-health-card', name: 'Soil Health Card Scheme', category: 'Agriculture', benefit: 'Free soil health card + fertilizer recommendations', eligibility: { occupations: ['farmer'] }, documents: ['Aadhaar Card', 'Land Records'], applyUrl: 'https://soilhealth.dac.gov.in' },
-  { id: 'pm-krishi-sinchayee', name: 'PM Krishi Sinchayee Yojana', category: 'Agriculture', benefit: '55-75% subsidy on drip/sprinkler irrigation', eligibility: { occupations: ['farmer'] }, documents: ['Aadhaar Card', 'Land Records', 'Bank Account'], applyUrl: 'https://pmksy.gov.in' },
-  { id: 'ignoaps', name: 'Indira Gandhi Old Age Pension', category: 'Pension', benefit: '₹200-₹1,000/month (varies by state)', eligibility: { minAge: 60, maxIncome: 'below-1l' }, documents: ['Aadhaar Card', 'Age Proof', 'BPL Card'], applyUrl: 'https://nsap.nic.in' },
-  { id: 'nfbsc', name: 'National Family Benefit Scheme', category: 'General', benefit: '₹20,000 one-time assistance', eligibility: { maxIncome: 'below-1l' }, documents: ['Death Certificate', 'Income Certificate', 'Aadhaar Card'], applyUrl: 'https://nsap.nic.in' },
-  { id: 'pmegp', name: 'PM Employment Generation Programme', category: 'Business', benefit: '15-35% subsidy on project cost', eligibility: { occupations: ['unemployed','self-employed'] }, documents: ['Aadhaar Card', 'Project Report', 'Caste Certificate'], applyUrl: 'https://pmegp.kviconline.gov.in' },
-  { id: 'beti-bachao', name: 'Beti Bachao Beti Padhao', category: 'Women', benefit: 'Cash transfer for girl education', eligibility: { genders: ['female'] }, documents: ['Birth Certificate', 'Aadhaar Card', 'Parent ID'], applyUrl: 'https://wcd.nic.in' },
-  { id: 'pm-ujjwala', name: 'PM Ujjwala Yojana', category: 'General', benefit: 'Free gas connection + first refill', eligibility: { maxIncome: 'below-1l' }, documents: ['Aadhaar Card', 'BPL Card', 'Bank Account'], applyUrl: 'https://pmuy.gov.in' },
-  { id: 'pm-awas-yojana', name: 'PM Awas Yojana (Rural)', category: 'Housing', benefit: '₹1.2 lakh + MGNREGA wages', eligibility: { occupations: ['farmer','unemployed'], maxIncome: 'below-1l' }, documents: ['Aadhaar Card', 'BPL Certificate'], applyUrl: 'https://pmayg.nic.in' },
-  { id: 'pm-svanidhi', name: 'PM SVANidhi', category: 'Business', benefit: '₹10,000 loan + 7% interest subsidy', eligibility: { occupations: ['self-employed'] }, documents: ['Aadhaar Card', 'Vendor Certificate', 'Bank Account'], applyUrl: 'https://pmsvanidhi.mohua.gov.in' },
-  { id: 'pm-kusum', name: 'PM-KUSUM', category: 'Agriculture', benefit: '60% subsidy on solar pumps', eligibility: { occupations: ['farmer'] }, documents: ['Aadhaar Card', 'Land Records', 'Bank Account'], applyUrl: 'https://mnre.gov.in' },
-  { id: 'pm-garib-kalyan', name: 'PM Garib Kalyan Anna Yojana', category: 'General', benefit: '5 kg wheat/rice + 1 kg dal per person/month', eligibility: { maxIncome: 'below-1l' }, documents: ['Ration Card', 'Aadhaar Card'], applyUrl: 'https://nfsa.gov.in' },
-];
-
-// ═══════════════════════════════════════════════════════════════
 // ELIGIBILITY ENGINE
 // ═══════════════════════════════════════════════════════════════
 
@@ -105,21 +88,36 @@ function calculateMatchScore(scheme, answers) {
     totalChecks++;
     if (age >= (scheme.eligibility.minAge || 0) && age <= (scheme.eligibility.maxAge || 150)) score++;
   }
-  if (scheme.eligibility.occupations) { totalChecks++; if (scheme.eligibility.occupations.includes(occupation)) score++; }
+  if (scheme.eligibility.occupations) {
+    totalChecks++;
+    if (scheme.eligibility.occupations.includes(occupation)) score++;
+  }
   if (scheme.eligibility.maxIncome) {
     totalChecks++;
     const levels = ['below-1l','1l-3l','3l-5l','5l-10l','above-10l'];
     if (levels.indexOf(income) <= levels.indexOf(scheme.eligibility.maxIncome)) score++;
   }
-  if (scheme.eligibility.genders) { totalChecks++; if (scheme.eligibility.genders.includes(gender)) score++; }
-  if (scheme.eligibility.castes) { totalChecks++; if (scheme.eligibility.castes.includes(caste)) score++; }
+  if (scheme.eligibility.genders) {
+    totalChecks++;
+    if (scheme.eligibility.genders.includes(gender)) score++;
+  }
+  if (scheme.eligibility.castes) {
+    totalChecks++;
+    if (scheme.eligibility.castes.includes(caste)) score++;
+  }
+  if (scheme.eligibility.states) {
+    totalChecks++;
+    if (scheme.eligibility.states.includes(answers.state)) score++;
+  }
 
   return totalChecks === 0 ? 50 : Math.round((score / totalChecks) * 100);
 }
 
 function getMatchedSchemes(answers) {
   return SCHEMES.map(s => ({ ...s, matchScore: calculateMatchScore(s, answers) }))
-    .filter(s => s.matchScore >= 30).sort((a, b) => b.matchScore - a.matchScore).slice(0, 5);
+    .filter(s => s.matchScore >= 30)
+    .sort((a, b) => b.matchScore - a.matchScore)
+    .slice(0, 10);
 }
 
 function formatResults(schemes, answers) {
@@ -238,12 +236,23 @@ app.get('/', (c) => {
     const html = readFileSync(join(__dirname, '../public/index.html'), 'utf-8');
     return c.html(html);
   } catch (e) {
+    console.error('Error reading index.html:', e);
     return c.text('Frontend not found. Please make sure public/index.html exists.', 500);
   }
 });
 
+// SERVE SCHEMES JSON (for frontend to use)
+app.get('/api/schemes', (c) => {
+  try {
+    const schemesData = readFileSync(join(__dirname, '../public/schemes.json'), 'utf-8');
+    return c.json(JSON.parse(schemesData));
+  } catch (e) {
+    return c.json({ error: 'Failed to load schemes' }, 500);
+  }
+});
+
 // Health check
-app.get('/health', (c) => c.json({ status: 'ok', activeSessions: sessions.size }));
+app.get('/health', (c) => c.json({ status: 'ok', activeSessions: sessions.size, schemesLoaded: SCHEMES.length }));
 
 // Meta webhook verification
 app.get('/api/whatsapp/meta-webhook', (c) => {
@@ -304,14 +313,10 @@ app.post('/api/whatsapp/twilio-webhook', async (c) => {
   }
 });
 
-// ═══════════════════════════════════════════════════════════════
-// START SERVER
-// ═══════════════════════════════════════════════════════════════
-
 console.log('🚀 Sarkari Dost WhatsApp Bot starting...');
 console.log(`📡 Port: ${PORT}`);
 console.log(`🧠 Active sessions: ${sessions.size}`);
-console.log(`📋 Schemes loaded: ${SCHEMES.length}`);
+console.log(`📚 Schemes loaded: ${SCHEMES.length}`);
 console.log(`🌐 Website: http://localhost:${PORT}`);
 
 serve({ fetch: app.fetch, port: Number(PORT) });
